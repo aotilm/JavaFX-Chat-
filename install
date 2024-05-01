@@ -1,0 +1,11 @@
+sudo apt install mysql-server
+
+mysqld --version
+
+sudo mysql_secure_installation
+￼
+sudo systemctl status mysql
+￼
+sudo mysql -u root
+￼
+
