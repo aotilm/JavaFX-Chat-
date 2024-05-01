@@ -8,4 +8,4 @@ sudo systemctl status mysql
 ￼
 sudo mysql -u root
 ￼
-
+sudo apt install openjdk-17-jdk
